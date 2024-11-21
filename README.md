@@ -21,7 +21,7 @@ Once you have completed the following steps, notify Instructor Success with the 
 
 ### Step 1: Create an Explorable Exercise
 
-  
+  Answer: https://docs.google.com/document/d/19byBG7bdZgpxzI214KqCUz44l9LVwgKBkmkWVUWqYyY/edit?tab=t.0#heading=h.p0mt6wnrdttl
 
 An explorable exercise (EE) is a learning exercise, an advanced exercise type leveraged heavily within DLE case studies. The objective of an EE is to provide the learner with a more interactive experience and achieve a deeper understanding of conceptual topics without being required to do any coding or utilize a tool.
 
@@ -95,7 +95,7 @@ Screencasts in Data Literacy and Essential (DLE) courses demonstrate to learners
 
   
 
-- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://drive.google.com/drive/folders/1g4_t54qx9yrgp00aYnhIVNoeXGH6MR41?usp=sharing
 
   
   
@@ -110,7 +110,9 @@ Now that you have created an explorable revisit your outline and develop it furt
 
   
 
-- [ ] Upload your wireframe to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here:
+- [ ] Upload your wireframe to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: 
+https://docs.google.com/spreadsheets/d/1M-cU8cnTBMj9Kk1Yq0Xq3Yknu4nTEPcB/edit?usp=sharing&ouid=103448986416171024600&rtpof=true&sd=true
+
 
   
   
